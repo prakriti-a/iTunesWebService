@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iTunes Web Service</string>
+    <string name="cover">Song / Album Cover</string>
+    <string name="song_name">Song: </string>
+    <string name="artist_name">Artist: </string>
+    <string name="album_name">Album: </string>
+    <string name="genre_name">Genre: </string>
+    <string name="lookup">LOOK UP iTUNES STORE!</string>
+    <string name="type_name">Type: </string>
+</resources>
